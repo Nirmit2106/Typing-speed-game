@@ -16,10 +16,10 @@ time as "time.time()"
 ramdom as "random.choice()"
 
 ## Steps involved in the program 🚀
-1.The user has to type the sentence.
-2.The user input is compared with the sentence genrated.
-3.Typing speed is calculated accordingly
-4.Output is generated and returned.
+- The user has to type the sentence.
+- The user input is compared with the sentence genrated.
+- Typing speed is calculated accordingly
+- Output is generated and returned.
 
 ## Prerequisites
 - Python 3.13 or higher
