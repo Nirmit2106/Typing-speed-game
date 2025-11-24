@@ -15,4 +15,4 @@ A fun and interactive **Typing Speed Test** built in Python that measures your t
 ## How to Run 🚀
 
 ### Prerequisites
-- Python 3.6 or higher
+- Python 3.13 or higher
