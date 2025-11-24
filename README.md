@@ -1,4 +1,4 @@
-## Typing Speed Test 🏎️💻
+### Typing Speed Test 🏎️💻
 
 ## Overview
 A fun and interactive **Typing Speed Test** built in Python that measures your typing speed in **Words Per Minute (WPM)** and **accuracy** using hilarious random jokes as test sentences!
